@@ -10,7 +10,7 @@ Dependencies:
 Example
     When the user click on the item in the list, it will expand the layout and will show extra detail.
     
-  ![alt tag](https://github.com/mrzulkarnine/Web-based-hotel-booking-system/blob/master/UserInterface/page-1.PNG)
+  ![alt tag](https://raw.githubusercontent.com/mrzulkarnine/RecyclerView-With-Expandable-Item-Demo/master/Screenshot_2016-01-31-03-58-29.jpg)
     
 
 Thank you to aakira (https://github.com/AAkira/ExpandableLayout) for the awesome expandable layout. 
