@@ -11,6 +11,8 @@ Example
     When the user click on the item in the list, it will expand the layout and will show extra detail.
     
   ![alt tag](https://raw.githubusercontent.com/mrzulkarnine/RecyclerView-With-Expandable-Item-Demo/master/Screenshot_2016-01-31-03-58-29.jpg)
+  ![alt tag](https://raw.githubusercontent.com/mrzulkarnine/RecyclerView-With-Expandable-Item-Demo/master/Screenshot_2016-01-31-03-58-37.jpg)
+  ![alt tag](https://raw.githubusercontent.com/mrzulkarnine/RecyclerView-With-Expandable-Item-Demo/master/Screenshot_2016-01-31-03-58-43.jpg)
     
 
 Thank you to aakira (https://github.com/AAkira/ExpandableLayout) for the awesome expandable layout. 
